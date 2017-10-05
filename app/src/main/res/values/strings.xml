@@ -2,4 +2,7 @@
     <string name="app_name">test1</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="a_str">a=</string>
+    <string name="b_str">b=</string>
+    <string name="res_btn">Result</string>
 </resources>
